@@ -4,8 +4,7 @@
 	> conda env create -f environment.yml
 2. Download pretrained models and put it in the project root folder
 
-  - Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1GFYFriERoEk4aXrpIKVpVw)
-  - extraction code: 5555
+  - Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1CZD-BUpINgqNa_e5rLKb6A?pwd=5555)
 
 3. Test the Model
     > python main.py
