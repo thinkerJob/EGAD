@@ -11,8 +11,7 @@ conda env create -f environment.yml
 
 ## Pretrained Checkpoints
 
-- Download pretrained checkpoints [here](https://pan.baidu.com/s/1tYpklT3xNmx6vldMPHWTVg) and put the checkpoints under `<project_dir>/`
-- extraction code: 3333
+- Download pretrained checkpoints [here](https://pan.baidu.com/s/1aBpSNnZbQuw_rEp-0u4kLA?pwd=5555) and put the checkpoints under `<project_dir>/`
 
 ##  Testing
 
