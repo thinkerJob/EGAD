@@ -1,7 +1,7 @@
 # Efficient Generalization Evaluation of Industrial Anomaly Detection Models via Maximum Discrepancy Competition
 
 ## 1. Data Visualization
-Part of the data in $\mathcal{R}$ is as shown in the following image:
+Part of the data in $\mathcal{[R](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txWg?pwd=5555)}$ is as shown in the following image:
 ![dataset.png](./dataset.png)
 
 ## 2. Participating Models (Methods - 6)
@@ -19,7 +19,7 @@ conda env create -f environment.yml
 Testing the data in $\mathcal{R}$ in each project to obtain the test results.
 
 ## 3. Maximum Discrepancy Competition
-- **Selection of $k$ samples with research value**: ($\mathcal{D_{ab}}$)
+- **Selection of $k$ samples with research value**: ($\mathcal{[D_{ab}](https://pan.baidu.com/s/1QNqnYaLW8Nnml73GFUn7DQ?pwd=5555)}$)
 The process involves selecting $k$ samples that have significant research value through the maximumDiscrepency approach.
 Execute the following script to implement this:
 
