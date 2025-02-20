@@ -1,7 +1,7 @@
 # Efficient Generalization Evaluation of Industrial Anomaly Detection Models via Maximum Discrepancy Competition
 
 ## 1. Data Visualization
-Part of the data in the [dataset](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txWg?pwd=5555) $\mathcal{R}$ is as shown in the following image:
+Part of the data in the [dataset](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txWg?pwd=5555) ($\mathcal{R}$) is as shown in the following image:
 ![dataset.png](./dataset.png)
 
 ## 2. Participating Models (Methods - 6)
