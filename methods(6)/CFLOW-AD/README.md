@@ -7,9 +7,9 @@
 conda env create -f environment.yml
 ```
 ## Download pretrained models and put it in the project root folder
-- Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1NrN07QT4eFHEKbQp-RWfcw)
-- extraction code: 1111
-
+```
+ Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/11iy0hrc0Rji6qOHYBVJThw?pwd=5555)
+```
 ## Testing 
 ```
 bash teatAll.sh
