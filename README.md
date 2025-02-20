@@ -19,8 +19,8 @@ conda env create -f environment.yml
 Testing the data in $\mathcal{R}$ in each project to obtain the test results.
 
 ## 3. Maximum Discrepancy Competition
-- **Selection of $k$ samples with research value**: The [dataset](https://pan.baidu.com/s/1QNqnYaLW8Nnml73GFUn7DQ?pwd=5555) ($\mathcal{D_{ab}}$)
-The process involves selecting $k$ samples that have significant research value through the maximumDiscrepency approach.
+- **Selection of $k$ samples with research value**: 
+The process involves selecting $k$ samples in the [dataset](https://pan.baidu.com/s/1QNqnYaLW8Nnml73GFUn7DQ?pwd=5555) ($\mathcal{D_{ab}}$) that have significant research value through the maximumDiscrepency approach.
 Execute the following script to implement this:
 
 ```
