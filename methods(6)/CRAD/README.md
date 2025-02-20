@@ -21,8 +21,7 @@ conda env create -f environment.yml
 ```
 
 ## Download pretrained models and put it in the experiments folder.
-- Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1VgkFn9jyswwZpWBwflznzg)
-- extraction code: 2222
+- Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1yLcDMsBdRIVIe40ndp7Q5A?pwd=5555)
 
 ## Evaluation
 To evaluate a trained model, run:
