@@ -25,8 +25,7 @@ MVTec
 ```
 
 ## Download pretrained models and put it in the project root folder
-- Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1gcAJrbk_8Ed3JlF82to_tA)
-- extraction code: 4444
+- Download pretrained weights from [Baidu Netdisk](https://pan.baidu.com/s/1sLT8P0umag9pbnk6bFgr3Q?pwd=5555)
 
 ## Testing
 
