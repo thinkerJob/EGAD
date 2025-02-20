@@ -1,0 +1,15 @@
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name bottle --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/bottle/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name carpet --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/carpet/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name hazelnut --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/hazelnut/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name leather --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/leather/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name cable --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/cable/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name capsule --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/capsule/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name grid --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/grid/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name transistor --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/transistor/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name metal_nut --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/bottle/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name screw --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/screw/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name toothbrush --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/toothbrush/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name zipper --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/zipper/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name tile --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/tile/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name wood --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/wood/best_det.pt
+CUDA_VISIBLE_DEVICES=7 python main.py --mode test --class-name pill --eval_ckpt ./work_dirs/msflow_wide_resnet50_2_avgpool_pl258/mvtec/pill/best_det.pt

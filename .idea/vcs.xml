@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/methods(6)/CFLOW-AD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods(6)/DeSTSeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods(6)/MSFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods(6)/Reverse Distillation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods(6)/SimpleNet" vcs="Git" />
+  </component>
+</project>
