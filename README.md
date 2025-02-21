@@ -5,7 +5,7 @@ Part of the data in the [dataset](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txW
 ![dataset.png](./dataset.png)
 
 ## 2. Participating Models (Methods - 6)  
-\*\***NOTE\*\***:the files in methods(6) folder can be seen after download project
+\*\***NOTE\*\***: the files in methods(6) folder can be seen after download project
 - **Simple network structure**: SimpleNet
 - **Student - Teacher architecture**: DeSTSeg, Reverse Distillation
 - **Normalizing flow**: CFLOW - AD, MSFlow
