@@ -4,7 +4,8 @@
 Part of the data in the [dataset](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txWg?pwd=5555) $\mathcal{R}$ is as shown in the following image:
 ![dataset.png](./dataset.png)
 
-## 2. Participating Models (Methods - 6)  \****NOTE\****:To view the methods(6) folder you need to download
+## 2. Participating Models (Methods - 6)  
+\*\***NOTE\*\***:To view the methods(6) folder you need to download
 - **Simple network structure**: SimpleNet
 - **Student - Teacher architecture**: DeSTSeg, Reverse Distillation
 - **Normalizing flow**: CFLOW - AD, MSFlow
