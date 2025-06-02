@@ -4,8 +4,8 @@
 Part of the data in the [dataset](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txWg?pwd=5555) $\mathcal{R}$ is as shown in the following image:
 ![dataset.png](./dataset.png)
 
-## 2. Deal Data
-There will be a lot of messy images that we crawl down from the web, but we are crawling using keywords, so most of the images are of the same kind, so we use clustering methods to separate the images we need from the other noisy images.Finally, to make sure the picture was absolutely clean it was also looked at by hand.
+## 2. Data Processing
+When crawling images from the web, although keyword-based crawling ensures that most images belong to the target category, the dataset inevitably contains noisy or irrelevant content. To address this, we employ clustering algorithms (K-Means) to separate the target images from noisy data, leveraging the inherent similarity of category-specific features. Additionally, to guarantee data purity, all images undergo manual inspection to remove any remaining irrelevant or low-quality samples. This two-step process—automated clustering followed by human verification—ensures the final dataset is both structurally consistent and free of extraneous noise.
 
 ## 3. Participating Models (Methods - 6)  
 \*\***NOTE\*\***: the files in methods(6) folder can be seen after download project
