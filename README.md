@@ -5,7 +5,7 @@ Part of the data in the [dataset](https://pan.baidu.com/s/1uquHV-yy2UUth06Vw9txW
 ![dataset.png](./dataset.png)
 
 ## 2. Deal Data
-There will be a lot of messy images that we crawl down from the web, but we are crawling using keywords, so most of the images are of the same kind, so we use clustering methods to separate the images we need from the other noisy images.
+There will be a lot of messy images that we crawl down from the web, but we are crawling using keywords, so most of the images are of the same kind, so we use clustering methods to separate the images we need from the other noisy images.Finally, to make sure the picture was absolutely clean it was also looked at by hand.
 
 ## 3. Participating Models (Methods - 6)  
 \*\***NOTE\*\***: the files in methods(6) folder can be seen after download project
